@@ -1,0 +1,142 @@
+[
+    {
+        "religious_taboo":
+        {
+            "words":
+            [
+                "god",
+                "jesus",
+                "christ",
+                "evil",
+                "hell",
+                "damn",
+                "goddam"
+            ],
+            "phrases":
+            [
+                "god damn",
+                "got to hell",
+                "jesus christ",
+                "bloody hell"
+            ]
+        },
+        "animal_taboo":
+        {
+            "words":
+            [
+                "donkey",
+                "cow",
+                "bitch",
+                "dog",
+                "bagder",
+                "chicken",
+                "rat",
+                "whale",
+                "pig",
+                "snake",
+                "sloth",
+                "monkey",
+                "hen",
+                "turkey",
+                "mouse",
+                "cat",
+                "kitten",
+                "fox",
+                "lamb",
+                "vixen",
+                "worm"
+            ],
+            "phrases":
+            [
+                "frightened rabbit",
+                "squirrel",
+                "to squirrel away",
+                "fishy in shoals",
+                "ugly toad",
+                "small shrimp",
+                "you are so catty",
+                "to ape",
+                "snake in the grass",
+                "speak with a forked tongue snake",
+                "adaptable chameleon",
+                "such a worm",
+                "horse around",
+                "greedy pig",
+                "silly ass",
+                "a turkey that will never fly",
+                "bovine",
+                "sheepish",
+                "mutton dressed as lamb",
+                "louse",
+                "cockroach",
+                "inconstant butterfly",
+                "unfaithful grasshopper",
+                "to parrot",
+                "cuckoo",
+                "aquiline",
+                "to swan about",
+                "bird-brained",
+                "vultures",
+                "dog-tired",
+                "sly fox",
+                "vixen",
+                "bitch",
+                "dog",
+                "lone wolf"
+            ]
+        },
+        "body_taboo":
+        {
+            "words":
+            [
+                "arse",
+                "bloody",
+                "bugger",
+                "crap",
+                "ginger",
+                "git",
+                "minger",
+                "sod-off",
+                "arsehole",
+                "balls",
+                "bint",
+                "bollocks",
+                "bullshit",
+                "feck",
+                "munter",
+                "shit",
+                "son of a bitch",
+                "tits",
+                "bastard",
+                "beaver",
+                "beef curtains",
+                "bellend",
+                "bloodclaat",
+                "clunge",
+                "cock",
+                "dick",
+                "dickhead",
+                "fanny",
+                "flaps",
+                "gash",
+                "knob",
+                "minge",
+                "prick",
+                "punani",
+                "pussy",
+                "snatch",
+                "twat",
+                "wanker",
+                "fuck",
+                "cunt",
+                "motherfucker"
+            ],
+            "phrases":
+            [
+                "what the hell",
+                "what the fuck",
+                "what the bloody hell"
+            ]
+        }
+    }
+]
