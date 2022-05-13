@@ -130,6 +130,22 @@ weighted avg       0.72      0.71      0.71     50000
 [[20135  4814]
  [ 9567 15484]]
 ```
+## InsultDetection
+```
+              precision    recall  f1-score   support
+
+           0       0.81      0.96      0.88      2898
+           1       0.79      0.38      0.52      1049
+
+    accuracy                           0.81      3947
+   macro avg       0.80      0.67      0.70      3947
+weighted avg       0.81      0.81      0.78      3947
+
+confusion matrix
+[[2793  105]
+ [ 646  403]]
+```
+
 ## HATE_SPEECH
 ```
 ```
@@ -138,10 +154,21 @@ weighted avg       0.72      0.71      0.71     50000
 ```
 ## TextualAbuse
 ```
+             precision    recall  f1-score   support
+
+       False       0.29      0.45      0.36      3475
+        True       0.90      0.82      0.86     21308
+
+    accuracy                           0.77     24783
+   macro avg       0.60      0.64      0.61     24783
+weighted avg       0.82      0.77      0.79     24783
+
+confusion matrix
+[[ 1578  1897]
+ [ 3785 17523]]
+
 ```
-## InsultDetection
-```
-```
+
 ## MoraleDetection  
 ```
 ```
