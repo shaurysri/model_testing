@@ -146,12 +146,6 @@ confusion matrix
  [ 646  403]]
 ```
 
-## HATE_SPEECH
-```
-```
-## PeersConflict
-```
-```
 ## TextualAbuse
 ```
              precision    recall  f1-score   support
@@ -168,7 +162,28 @@ confusion matrix
  [ 3785 17523]]
 
 ```
+## Gender classifier
+```
+              precision    recall  f1-score   support
 
+           0       0.64      0.96      0.77     12717
+           1       0.49      0.07      0.13      7283
+
+    accuracy                           0.63     20000
+   macro avg       0.57      0.51      0.45     20000
+weighted avg       0.59      0.63      0.53     20000
+
+confusion matrix 
+[[12166,   551],
+ [ 6758,   525]]
+
+```
+## HATE_SPEECH
+```
+```
+## PeersConflict
+```
+```
 ## MoraleDetection  
 ```
 ```
