@@ -178,6 +178,59 @@ confusion matrix
  [ 6758,   525]]
 
 ```
+## Language detection
+```
+                   precision    recall  f1-score   support
+
+           afrikaans       0.00      0.00      0.00         0
+            albanian       0.00      0.00      0.00         0
+              arabic       1.00      0.99      1.00       536
+           bulgarian       0.00      0.00      0.00         0
+             catalan       0.00      0.00      0.00         0
+            croatian       0.00      0.00      0.00         0
+               czech       0.00      0.00      0.00         0
+              danish       0.94      0.84      0.89       428
+               dutch       0.97      0.86      0.92       546
+             english       0.99      0.96      0.97      1385
+            estonian       0.00      0.00      0.00         0
+             finnish       0.00      0.00      0.00         0
+              french       0.98      0.97      0.98      1014
+              german       0.98      0.95      0.97       470
+               greek       0.00      0.00      0.00       365
+greek-modern (1453-)       0.00      0.00      0.00         0
+               hindi       1.00      0.98      0.99        63
+           hungarian       0.00      0.00      0.00         0
+          indonesian       0.00      0.00      0.00         0
+             italian       0.97      0.96      0.96       698
+             kannada       1.00      1.00      1.00       369
+             latvian       0.00      0.00      0.00         0
+          lithuanian       0.00      0.00      0.00         0
+          macedonian       0.00      0.00      0.00         0
+           malayalam       1.00      1.00      1.00       594
+             marathi       0.00      0.00      0.00         0
+           norwegian       0.00      0.00      0.00         0
+           not_known       0.00      0.00      0.00         0
+             persian       0.00      0.00      0.00         0
+              polish       0.00      0.00      0.00         0
+          portugeese       0.96      0.96      0.96       739
+            romanian       0.00      0.00      0.00         0
+             russian       1.00      0.95      0.97       692
+              slovak       0.00      0.00      0.00         0
+           slovenian       0.00      0.00      0.00         0
+              somali       0.00      0.00      0.00         0
+             spanish       0.98      0.93      0.96       819
+            sweedish       0.99      0.94      0.96       676
+             tagalog       0.00      0.00      0.00         0
+               tamil       1.00      1.00      1.00       469
+             turkish       1.00      0.96      0.98       474
+           ukrainian       0.00      0.00      0.00         0
+          vietnamese       0.00      0.00      0.00         0
+               welsh       0.00      0.00      0.00         0
+
+            accuracy                           0.92     10337
+           macro avg       0.36      0.35      0.35     10337
+        weighted avg       0.95      0.92      0.93     10337
+```
 ## HATE_SPEECH
 ```
 ```
